@@ -3,6 +3,8 @@
 # NGS Analysis
 These are some basic examples for doing NGS analysis
 
+# Getting Started & Run
+
 ## 1. Load data
 ### 1.1 get_fastq.sh
 Example scripts of download fastqs with fasterq-dump .
