@@ -2,7 +2,9 @@
 
 # NGS Analysis
 These are some basic examples for doing NGS analysis
+for 
 
+[【NGS 次世代基因體資料科學】基礎教學 05 Burrows-Wheeler Aligner BWA 的使用介紹 ](https://www.next-bioinfo.tw/en/?p=248)
 # Getting Started & Run
 
 ## 1. Load data
@@ -17,3 +19,4 @@ download & compile bwa
 download ucsc hg19 and make as bwa reference genome index file
 ### 2.3 bwa_mapping.sh
 bwa with samtools fastq to bam
+
